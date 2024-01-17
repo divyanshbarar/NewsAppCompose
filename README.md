@@ -1,6 +1,8 @@
 # News App README
 
 ## Overview
+<img src="1000045142.png" width="200">
+
 
 Welcome to the News App! This application provides a seamless and engaging experience for users to stay informed about a variety of news articles and stories from around the world.
 
